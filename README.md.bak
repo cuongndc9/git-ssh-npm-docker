@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # git-ssh-npm-docker
 
 🐊 git+ssh for npm & docker
