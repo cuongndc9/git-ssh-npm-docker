@@ -28,7 +28,4 @@ git clone git@github.com:kimcuong060498/git-ssh-npm-docker.git
 docker build -t kimcuong060498/git-ssh-npm-docker --build-arg SSH_PRIVATE_KEY="$(cat ~/.ssh/id_rsa | base64)" .
 ```
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-The best way to predict the future is to create it.
-🦖
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nAction beats perfection.\n🦄\n<!-- INSPIRATIONAL_QUOTE_END -->
