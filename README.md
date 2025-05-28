@@ -30,6 +30,6 @@ docker build -t kimcuong060498/git-ssh-npm-docker --build-arg SSH_PRIVATE_KEY="$
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🐶
+Action beats perfection.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
