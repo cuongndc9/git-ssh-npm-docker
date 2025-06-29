@@ -30,5 +30,5 @@ docker build -t kimcuong060498/git-ssh-npm-docker --build-arg SSH_PRIVATE_KEY="$
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
